@@ -4,6 +4,15 @@ node_modules/
 # Expo
 .expo/
 
+# Vercel
+.vercel/
+
+# Build output
+dist/
+
+# Nested repo metadata
+mehub-app/.git/
+
 # Editor directories
 .vscode/
 
